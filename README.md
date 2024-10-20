@@ -6,6 +6,9 @@ In this era of rapidly expanding astrophysical data, I’m passionate about appl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efeoztaban&layout=compact)
 
+![Language Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efeoztaban&theme=default)
+
+
 
 <!--
 **efeoztaban/efeoztaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
