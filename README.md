@@ -21,6 +21,10 @@ My background bridges **electronics engineering**, **computer science**, and **p
 
 ---
 
+<p align="center"><i>“What a time to be alive and make research!”</i></p>
+
+---
+
 ### 🧠 Research Interests
 - Computational Astrophysics & Simulations  
 - Machine Learning for Astrophysics
@@ -72,6 +76,3 @@ When I’m not coding or analyzing data:
   <a href="https://github.com/efeoztaban"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
----
-
-<p align="center"><i>“What a time to be alive and make research!”</i></p>
