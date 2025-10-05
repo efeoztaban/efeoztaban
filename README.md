@@ -49,23 +49,11 @@ My background bridges **electronics engineering**, **computer science**, and **p
   <!-- Custom color theme -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efeoztaban&theme=github_dark" width="95%"><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efeoztaban&theme=radical" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efeoztaban&theme=radical" width="45%"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=efeoztaban&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%">
-  <img src="https://streak-stats.demolab.com/?user=efeoztaban&theme=tokyonight&hide_border=true" width="47%">
   
 </div>
 
 ---
 
-### 🌠 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**RAPTOR Photon Event Simulation**](https://github.com/efeoztaban) | Monte Carlo GRMHD ray-tracing with FITS I/O in C | C, OpenMP, CFITSIO |
-| [**AI-Based Dust-Scattering Halo Detection**](https://github.com/efeoztaban) | CNNs with domain adaptation for eROSITA survey data | PyTorch, SIXTE |
-| [**3D Molecular Cloud Reconstruction**](https://github.com/efeoztaban) | Gaussian decomposition + clustering to infer 3D cloud shapes | Python, scikit-learn, Astropy |
-
----
 
 ### 🎧 Beyond Research
 When I’m not coding or analyzing data:
