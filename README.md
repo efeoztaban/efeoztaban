@@ -14,7 +14,7 @@ My background bridges **electronics engineering**, **computer science**, and **p
 
 - 🛰️ Contributed to the **ATHENA (ESA)** mission’s Wide Field Imager bootloader during my internship at **DTU Space (Denmark)**.  
 - 💫 Developed improved **X-ray detectors** for **Sharjah-Sat-1 CubeSat**, launched in 2022.  
-- 🌌 Currently studying **dust scattering halos** and **3D molecular cloud morphology** with **CNNs** and **ray-tracing simulations**.  
+- 🌌 Currently studying **dust scattering halos** and **3D molecular cloud morphology** with **ML** and **ray-tracing simulations**.  
 - 🎤 Love sharing science through **radio broadcasting**, **teaching**, and **outreach**.  
 
 > “Connecting physics, computation, and curiosity to understand the cosmos.”
@@ -22,10 +22,10 @@ My background bridges **electronics engineering**, **computer science**, and **p
 ---
 
 ### 🧠 Research Interests
-- Computational Astrophysics & GRMHD Simulations  
-- Machine Learning for Astronomical Image Analysis  
-- X-ray & Multiwavelength Observations  
-- High-Performance Computing (C / OpenMP / Python)
+- Computational Astrophysics & Simulations  
+- Machine Learning for Astrophysics
+- X-ray & Multiwavelength Observations & Surveys
+- High-Performance Computing 
 
 ---
 
