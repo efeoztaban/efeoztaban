@@ -13,7 +13,7 @@ I’m currently pursuing my **M.Sc. in Physics** at Sabancı University, focusin
 My background bridges **electronics engineering**, **computer science**, and **physics** — from **designing CubeSat X-ray detectors** to **using AI for dust-scattering halo analysis**.
 
 - 🛰️ Contributed to the **ATHENA (ESA)** mission’s Wide Field Imager bootloader during my internship at **DTU Space (Denmark)**.  
-- 💫 Developed improved **X-ray detectors** for **Sharjah-Sat-1 CubeSat**, launched in 2022.  
+- 💫 worked on development of **X-ray detectors** for **Sharjah-Sat-1 CubeSat**, launched in 2022.  
 - 🌌 Currently studying **dust scattering halos** and **3D molecular cloud morphology** with **ML** and **ray-tracing simulations**.  
 - 🎤 Love sharing science through **radio broadcasting**, **teaching**, and **outreach**.  
 
