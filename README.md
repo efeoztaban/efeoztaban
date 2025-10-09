@@ -51,7 +51,6 @@ My background bridges **electronics engineering**, **computer science**, and **p
 <div align="center">
   
   <!-- Custom color theme -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efeoztaban&theme=github_dark" width="95%"><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efeoztaban&theme=radical" width="45%">
   
 </div>
