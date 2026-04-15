@@ -1,7 +1,8 @@
 <h1 align="center">Hey there, I'm Efe 🔭</h1>
 
 <p align="center">
-  <em>Incoming PhD Researcher at MPE • Computational Astrophysics • Machine Learning • X-ray Astronomy</em>
+  <em> Computational Astrophysics • Machine Learning • X-ray Astronomy</em>
+  
 </p>
 
 <p align="center">
