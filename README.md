@@ -58,7 +58,8 @@ In **September 2026**, I will begin my **PhD at the Max Planck Institute for Ext
 ### 📚 Recent Work
 - **M.Sc. Thesis:** *Machine learning-driven reconstruction of 3D molecular cloud structures for dust scattering halo modelling*  
 - **Research:** Dust scattering halos, molecular cloud morphology, X-ray image modelling  
-- **New publication:** *[Add your latest paper title here]*  
+- **New publication:** *https://doi.org/10.1093/mnras/staf1688*  
+
 
 ---
 
